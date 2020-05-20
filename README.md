@@ -1,2 +1,2 @@
 # hello-world
-hello-world repository as per GitHub intro guide.
+Hello world. My name is Max. I love dogs and The Beatles.
